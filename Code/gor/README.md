@@ -1,6 +1,19 @@
-# gor
+# Gor
+Thinking about daily doing something like this. During this Quarentine Period I'll be doing this daily to hone my skill.
 
-A new Flutter application.
+### Software used:
+- Adobe XD
+- Android Studio
+
+### Flutter Code File:
+- main.dart (Entry Point)
+- constants.dart (Colors and lists)
+- Screens
+  - scheduling_page.dart
+- widgets.dart
+
+## Design Inspiration: 
+- [Dribble: Mobile App - Gor](https://dribbble.com/shots/11032980-Mobile-App-Gor)
 
 ## Getting Started
 
